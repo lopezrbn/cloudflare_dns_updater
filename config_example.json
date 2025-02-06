@@ -1,0 +1,9 @@
+{
+    "CLOUDFLARE_API_TOKEN": "<API_TOKE_HERE>",
+    "ZONE_ID": "<ZONE_ID_HERE>",
+    "DOMINIOS": {
+        "your-domain.com": {"proxied": false},
+        "app1.your-domain.com": {"proxied": true},
+        "app2.your-domain.com": {"proxied": true}
+    }
+}
